@@ -137,6 +137,14 @@ p{
 	padding: 50px 0;
 	margin-bottom: 50px
 }
+.service-icons{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.progress{
+	height: 0.6rem!important;
+}
 .headings{
 	margin-bottom: 50px;
 
